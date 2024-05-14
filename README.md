@@ -1,10 +1,12 @@
 # mynotes
 
-A new Flutter project.
+My first test Flutter project.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+
+It was made for studies propouses by this free course in [FreeCodeCamp](https://www.youtube.com/watch?v=VPvVD8t02U8)
 
 A few resources to get you started if this is your first Flutter project:
 

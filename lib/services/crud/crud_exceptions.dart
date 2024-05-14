@@ -1,0 +1,10 @@
+// class UnableToGetDocumentsDirectoryException implements Exception {}
+// class DatabaseAlreadyOpenException implements Exception {}
+// class DatabaseIsNotOpenException implements Exception {}
+// class CouldNotDeleteUserException implements Exception {}
+// class UserAlreadyExistsException implements Exception {}
+// class UserNotFoundException implements Exception {}
+// class CouldNotDeleteNoteException implements Exception {}
+// class CouldNotUpdateNoteException implements Exception {}
+// class NoteNotFoundException implements Exception {}
+// class UserMustBeSetBeforeGetAllNotesException implements Exception {}
